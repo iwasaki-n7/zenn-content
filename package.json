@@ -1,0 +1,27 @@
+{
+  "name": "zenn-content",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup": "npm install",
+    "preview": "npx zenn preview",
+    "new": "npx zenn new:article --slug"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwasaki-n7/zenn-content.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/iwasaki-n7/zenn-content/issues"
+  },
+  "homepage": "https://github.com/iwasaki-n7/zenn-content#readme",
+  "dependencies": {
+    "zenn-cli": "^0.5.4"
+  }
+}
