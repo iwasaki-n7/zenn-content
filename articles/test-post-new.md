@@ -9,4 +9,4 @@ publication_name: "rabee" # こちらも必須で設定
 
 
 
-## テスト投稿
+## テスト投稿です
